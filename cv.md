@@ -2,8 +2,8 @@
 
 Minsk, Belarus  
 **Phone number**: +375336276633  
-**Telegram**: <yulia_medv>  
-**VK**: <https://vk.com/yulkotyan>  
+**Telegram**: [yulia_medv](https://t.me/Yulia_medv)  
+**VK**: [yulkotyan](https://vk.com/yulkotyan)  
 **email**: <yulinwo.17@gmail.com>
 
 I'm a novice programmer. 
