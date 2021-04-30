@@ -25,18 +25,19 @@ IntelliJ idea
 Android Studio 
 
 My last code examples
-
+You can ckeck it by the link on branch master: https://github.com/yuliamed/YULICar.git
 
 The main part of my experience consists of syudying at the University. 
 I passed 2 term papers. 
 The first is a console application for the store's warehouse. 
 The warehouse has administrators and ordinary users, who have different options for editing the state of the warehouse.
-
+You can ckeck it by the link: https://github.com/yuliamed/produce_warehouse.git
 
 The second is a windows application for solving the transport problem by the method of potentials.
+You can ckeck it by the link: https://github.com/yuliamed/transport_task.git
 
-
-Now I'm working on coursework, which helps users to book tickets for the trip between Minsk and Mogilev. 
+Now I'm working on coursework, which helps users to book tickets for the trip between Minsk and Mogilev.
+You can ckeck it by the link on branch master: https://github.com/yuliamed/YULICar.git 
 
 Education 
 2019 - 2023 Belarusian State University of Informatics and Radioelectronics (programmer, business-analyst)
