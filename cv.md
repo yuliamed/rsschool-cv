@@ -43,8 +43,8 @@ You can ckeck it by the link on branch master: <https://github.com/yuliamed/YULI
 **Education**  
 2019 - 2023 Belarusian State University of Informatics and Radioelectronics (programmer, business-analyst)
 
-**English**
-In 2018 I took an English course and got a B2 level.   
-In 2020 I studied the specifics of English vocabulary for an IT specialist at university.   
-Now I am working on my own level, but passing the tests I have a level of B1+. I want to improve this skill in the near future.  
+**English**   
+In *2018* I took an English course and got a **B2 level**.   
+In *2020* I studied the specifics of English vocabulary for an IT specialist at university.  
+Now I am working on my own level, but passing the tests I have a level of **B1+**. I want to improve this skill in the near future.  
 
